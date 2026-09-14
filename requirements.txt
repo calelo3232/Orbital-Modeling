@@ -1,0 +1,7 @@
+numpy==1.23.5
+scipy==1.10.0
+matplotlib==3.6.3
+ipython==7.28.0
+
+# ani.save('orbit.mp4', ...) in the three-body simulation also needs the
+# ffmpeg binary on PATH (not a pip package): https://ffmpeg.org/download.html

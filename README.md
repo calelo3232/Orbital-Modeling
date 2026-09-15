@@ -25,3 +25,10 @@ The three-body simulation's `ani.save('orbit.mp4', ...)` call additionally needs
 
 - Generalize the three-body integrator to an arbitrary number of bodies instead of hardcoding three
 - Model the orbital transfer with moving (rather than fixed) bodies, either by simulating the full multi-body system or by approximating relative motion as ellipses instead of stepwise integration
+
+## Contributors
+
+- Caleb Meyer
+- Max Christopherson
+- Jacob Brueck
+- Melanie Markham
